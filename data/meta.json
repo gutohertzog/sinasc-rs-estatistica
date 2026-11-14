@@ -1,0 +1,16 @@
+{
+  "arquivo_origem": "DNRS2024.dbc",
+  "md5_origem": "bd1f8077c7e8e4c8350ac99b0f45557f",
+  "data_preparo": "2026-11-14",
+  "N": 111988,
+  "confianca": 0.95,
+  "margem_erro": 0.03,
+  "p_planejamento": 0.5,
+  "z": 1.959963984540054,
+  "n0": 1067.0718946372572,
+  "n_corrigido": 1057.009670982984,
+  "n": 1058,
+  "fracao_amostral": 0.009447440797228274,
+  "semente": 2026,
+  "metodo": "pandas.DataFrame.sample(n, replace=False, random_state=semente)"
+}
